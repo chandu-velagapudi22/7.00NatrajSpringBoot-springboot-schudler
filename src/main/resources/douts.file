@@ -1,0 +1,2 @@
+Actvally this program  i am getting null pointer bcz i make the dependency in to main class
+by using the autowired but i dont no why it is showing null pointer exception
